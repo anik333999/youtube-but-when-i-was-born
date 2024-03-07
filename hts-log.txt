@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Mar 2024 13:13:58 at https://web.archive.org/web/20150503010613/https://www.youtube.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20150503010613/https://www.youtube.com/ -O1 "C:\My Web Sites\https___web.archive.org_web_20150503010613_https___www.youtube.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/about/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/about/ to http://web.archive.org/web/20150503122519/https://www.youtube.com/yt/about/
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/press/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/press/ to http://web.archive.org/web/20150503122527/https://www.youtube.com/yt/press/
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/copyright/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/copyright/ to http://web.archive.org/web/20150503122532/https://www.youtube.com/yt/copyright/
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/creators/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/creators/ to http://web.archive.org/web/20150502153019/http://www.youtube.com/yt/creators/
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/advertise/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/advertise/ to http://web.archive.org/web/20150502152833/https://www.youtube.com/yt/advertise
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/dev/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/dev/ to http://web.archive.org/web/20150502153020/http://www.youtube.com/yt/dev/
+13:18:32	Warning: 	FOUND for web.archive.org/web/20150503010613/https://www.youtube.com/yt/policyandsafety/
+13:18:32	Warning: 	File has moved from web.archive.org/web/20150503010613/https://www.youtube.com/yt/policyandsafety/ to http://web.archive.org/web/20150503122600/https://www.youtube.com/yt/policyandsafety/
+13:18:32	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20150503010613/https://www.youtube.com/"https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26feature%3Dplaylist%26next%3D%252F%26hl%3Den%26action_handle_signin%3Dtrue&hl=en&uilel=3&service=youtube%22 (from https://web.archive.org/web/20150503010613/https://www.youtube.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 34 seconds : 63 links scanned, 53 files written (1385338 bytes overall) [1117448 bytes received at 4078 bytes/sec], 886785 bytes transferred using HTTP compression in 6 files, ratio 18%, 25.2 requests per connection
+(1 errors, 14 warnings, 0 messages)
